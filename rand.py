@@ -4,4 +4,5 @@ def calculatePy(a:List[List[int]):
 		for j in range(len(a[0]):
 			print(a[i][j])
 
+# this is some random pycode I wrote for checking out GH
 	
